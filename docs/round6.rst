@@ -32,7 +32,10 @@ John Dennison
 -------------
 
 Showed off a web scraper and some R code to analyze baby names from publicly
-available data.
+available data. `github <https://github.com/jofusa/ssa-baby-names>`_
+
+
+
 
 Eli Fatsi
 ---------
